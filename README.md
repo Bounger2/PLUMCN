@@ -1,5 +1,5 @@
 # PLUMCN
-Disclosure of information on PLUMCN paper/
+Disclosure of information on PLUMCN paper.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
