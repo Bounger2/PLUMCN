@@ -10,5 +10,5 @@ PLUMCN code and data files for traffic flow prediction.
 Built Using Languages and Libraries Listed Below 
 * [Python](https://docs.python.org/3/)
 * [numpy](https://numpy.org/devdocs/)
-* [torch]
+* torch
 
